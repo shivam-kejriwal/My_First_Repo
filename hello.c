@@ -1,3 +1,5 @@
+//The Basics of Computer programming
+//PRINTING hELLO wORLD
 #include<stdio.h>
 int main()
 {
